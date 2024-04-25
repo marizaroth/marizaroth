@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🌻
 
-<!--
-**marizaroth/marizaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Mariza Roth
 -->
+- Estou estudando [Alura](https://alura.com.br)
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Essse espaço é para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+### Contato 📧
+mariza.roth@escola.pr.ogv.br
+
+![image](https://github.com/marizaroth/marizaroth/assets/166747926/729b4a2d-eeea-42ec-8cea-bde3aa708bc6)
