@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 🌻
 
 Meu nome é Mariza Roth
--->
+
 - Estou estudando [Alura](https://alura.com.br)
 
 - Estou me desenvolvendo na linguagem JavaScript
